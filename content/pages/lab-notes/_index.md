@@ -4,14 +4,75 @@ title: Lab Notes
 uid: d3b07c27-e5d4-8d13-b9ff-06afa6ce12b9
 ---
 
-| LAB # | TOPICS |
-| --- | --- |
-| 1–2 | [Fun with Molding (PDF)]({{< baseurl >}}/resources/mit2_674s16_labnote1_2) |
-| 3–5 | [Microfluidic Hydrodynamics (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_674s16_labnote3_5) |
-| 6 | [Surface Engineering Using Soft Materials (PDF - 1.5MB)]({{< baseurl >}}/resources/mit2_674s16_labnote6) |
-| 7–9 | [Growing and Observing Micro and Nanostructures (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_674s16_labnote7_9) |
-| 10 | [Atomic Force Microscopy (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_674s16_labnote10) |
-| 11 | [Graphene (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_674s16_labnote11) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+[Fun with Molding (PDF)]({{< baseurl >}}/resources/mit2_674s16_labnote1_2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–5
+{{< tdclose >}}
+{{< tdopen >}}
+[Microfluidic Hydrodynamics (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_674s16_labnote3_5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Surface Engineering Using Soft Materials (PDF - 1.5MB)]({{< baseurl >}}/resources/mit2_674s16_labnote6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–9
+{{< tdclose >}}
+{{< tdopen >}}
+[Growing and Observing Micro and Nanostructures (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_674s16_labnote7_9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Atomic Force Microscopy (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_674s16_labnote10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Graphene (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_674s16_labnote11)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 References
 ----------

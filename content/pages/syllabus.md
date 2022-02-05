@@ -61,9 +61,54 @@ Class participation in highly encouraged, and will be reflected in your final gr
 
 Communication with the instructors and staff helps us get to know you, and is a valuable skill for working through problems and maximizing your laboratory experience.
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| 11 lab reports | 20 points each, 220 points total |
-| Class / Lab participation | 30 points |
-| Quiz (a short one at the end of the semester) | 50 points |
-| **Total** | **300 points**
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11 lab reports
+{{< tdclose >}}
+{{< tdopen >}}
+20 points each, 220 points total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class / Lab participation
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz (a short one at the end of the semester)
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**300 points**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

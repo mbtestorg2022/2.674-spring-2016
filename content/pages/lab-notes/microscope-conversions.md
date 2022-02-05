@@ -9,18 +9,112 @@ uid: 692eb8f4-4606-291b-6612-d3c2ca17380a
 Nikon
 -----
 
-| OBJECTIVES | RESOLUTIONS (\\(\\mu\\)m / pixel) |
-| --- | --- |
-| 4x | 1x | 1.686 |
-| 10x | 1x | 0.664 |
-| 20x | 1x | 0.338 |
-| 60x | 1x | 0.112 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+OBJECTIVES
+{{< thclose >}}
+{{< thopen >}}
+RESOLUTIONS (\\(\\mu\\)m / pixel)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4x
+{{< tdclose >}}
+{{< tdopen >}}
+1x
+{{< tdclose >}}
+{{< tdopen >}}
+1.686
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10x
+{{< tdclose >}}
+{{< tdopen >}}
+1x
+{{< tdclose >}}
+{{< tdopen >}}
+0.664
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20x
+{{< tdclose >}}
+{{< tdopen >}}
+1x
+{{< tdclose >}}
+{{< tdopen >}}
+0.338
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+60x
+{{< tdclose >}}
+{{< tdopen >}}
+1x
+{{< tdclose >}}
+{{< tdopen >}}
+0.112
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Omano
 -----
 
-| OBJECTIVES | RESOLUTIONS (\\(\\mu\\)M / pixel) |
-| --- | --- |
-| 10x | 1.59 |
-| 25x | 0.637 |
-| 40x | 0.5
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+OBJECTIVES
+{{< thclose >}}
+{{< thopen >}}
+RESOLUTIONS (\\(\\mu\\)M / pixel)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10x
+{{< tdclose >}}
+{{< tdopen >}}
+1.59
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25x
+{{< tdclose >}}
+{{< tdopen >}}
+0.637
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40x
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
