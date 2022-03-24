@@ -8,9 +8,9 @@ uid: 37212727-2cf7-b919-4a4c-397952899b9c
 
 Feynman, Richard. "[Plenty of Room, Plenty of History](https://doi.org/10.1038/nnano.2009.357)." _Nature Nanotechnology_ 4, no. 12 (2009): 783–4.
 
-Xia, Younan, and George M. Whitesides. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Soft Lithography." (PDF)](https://www.annualreviews.org/doi/full/10.1146/annurev.matsci.28.1.153) _Annual Review of Material Science_, 28 (1998): 153–84.
+Xia, Younan, and George M. Whitesides. ["Soft Lithography." (PDF)](https://www.annualreviews.org/doi/full/10.1146/annurev.matsci.28.1.153) _Annual Review of Material Science_, 28 (1998): 153–84.
 
-Squires, Todd M., and Stephen R. Quake. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Microfluidics: Fluid Physics at the Nanoliter Scale." (PDF - 3.3MB)](http://authors.library.caltech.edu/1310/1/SQUrmp05.pdf) _Reviews of Modern Physics_ 77, no. 3 (2005): 977.
+Squires, Todd M., and Stephen R. Quake. ["Microfluidics: Fluid Physics at the Nanoliter Scale." (PDF - 3.3MB)](http://authors.library.caltech.edu/1310/1/SQUrmp05.pdf) _Reviews of Modern Physics_ 77, no. 3 (2005): 977.
 
 Mengeaud, Virginie, Jacques Josserand, et al. "[Mixing Processes in a Zigzag Microchannel: Finite Element Simulations and Optical Study](https://doi.org/10.1021/ac025642e)." _Analytical Chemistry_ 74, no. 16 (2002): 4279–86.
 

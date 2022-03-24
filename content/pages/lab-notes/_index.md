@@ -79,7 +79,7 @@ References
 
 [Atomic Force Microscopy Lab Introduction (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_674s16_afmlabintro)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sony Digital Camera Module Technical Manual (PDF)](https://pro.sony.com/bbsc/assetDownloadController/XCDV60_V60CR_SX90_SX90CR_U100_U100CR_Technical_Manual.pdf?path=Asset%20Hierarchy$Professional$SEL-yf-generic-153703$SEL-yf-generic-153738SEL-asset-116864.pdf&id=StepID$SEL-asset-116864$original&dimension=original)
+[Sony Digital Camera Module Technical Manual (PDF)](https://pro.sony.com/bbsc/assetDownloadController/XCDV60_V60CR_SX90_SX90CR_U100_U100CR_Technical_Manual.pdf?path=Asset%20Hierarchy$Professional$SEL-yf-generic-153703$SEL-yf-generic-153738SEL-asset-116864.pdf&id=StepID$SEL-asset-116864$original&dimension=original)
 
 [Microscope Conversions]({{< baseurl >}}/pages/lab-notes/microscope-conversions)
 
