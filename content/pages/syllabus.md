@@ -14,7 +14,7 @@ Labs: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-[_2.001 Mechanics & Materials I_](/courses/2-001-mechanics-materials-i-fall-2006/); [_3.091SC Introduction to Solid State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/) or [_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008/) or permission of the instructor.
+[_2.001 Mechanics & Materials I_](/courses/2-001-mechanics-materials-i-fall-2006); [_3.091SC Introduction to Solid State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010) or [_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008) or permission of the instructor.
 
 Corequisite
 -----------
